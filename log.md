@@ -1,3 +1,7 @@
+---
+title: 使用github pages 轻松发布日志
+---
+
 # 使用github pages 轻松发布日志
 
 一直觉得使用静态网站生成工具（pelican,jekyll等）不是特别方便，需要自己搭一套环境，不能做到随时使用。
