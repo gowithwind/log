@@ -5,14 +5,16 @@
 ![](https://jupyter.readthedocs.io/en/latest/_static/_images/jupyter.svg)
 ##安装jupyter
 
-```bash
+```
 pip install jupyter
 ```
 
 ##运行jupyter，在你的工作目录
-```bash
+
+```
 jupyter notebook
 ```
+
 ##桌面环境
 
 在桌面环境，你现在已经打开一个浏览器，并加载了jupyter的编辑器，你可以开心的使用了。
