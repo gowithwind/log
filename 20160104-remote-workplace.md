@@ -3,6 +3,7 @@
 很多时候我们需要在服务器(docker)上工作,我觉得python领域，jupyter是个很好的解决方案。
 
 ![](https://jupyter.readthedocs.io/en/latest/_static/_images/jupyter.svg)
+
 ##安装jupyter
 
 ```
