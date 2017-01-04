@@ -1,4 +1,4 @@
-##构建远程工作环境 jupyter
+##轻松用jupyter打造远程工作环境
 
 很多时候我们需要在服务器(docker)上工作,我觉得python领域，jupyter是个很好的解决方案。
 
